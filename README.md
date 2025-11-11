@@ -1,4 +1,4 @@
-# Hi, I'm [Oussama El Omari] 👋
+# Hi, I'm Oussama El Omari 👋
 QA Engineer | Automation & Manual Testing  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
