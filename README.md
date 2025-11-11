@@ -23,7 +23,7 @@ I take pride in delivering **robust, scalable, and efficient test automation sol
 
 <div>
   <img align="left" alt="Playwright" width="40px" src="https://playwright.dev/img/playwright-logo.svg" />
-  <img align="left" alt="Cypress" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" />
+  <img align="left" alt="Cypress" width="40px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cypress.svg" />
   <img align="left" alt="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
   <img align="left" alt="Jenkins" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
