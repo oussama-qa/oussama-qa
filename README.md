@@ -2,7 +2,7 @@
 **QA Engineer | Automation & Manual Testing**
 
 ## 🧰 Tools & Technologies  
-Selenium · Cypress · Postman · Jenkins · GitHub Actions · JMeter · Python · Java
+Playwright · Cypress · Postman · Jenkins · GitHub Actions · JMeter · Python · Javascript
 
 ## 🔍 What I Do  
 - Build and maintain automated test frameworks  
