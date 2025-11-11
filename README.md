@@ -1,56 +1,82 @@
-# Hi, I'm Oussama El Omari 👋
-QA Engineer | Automation & Manual Testing  
+# 👋 Hi, I'm Oussama El Omari 
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+### 🎯 QA Engineer | Automation Enthusiast | Test Advocate
 
----
-
-## 🔍 About Me
-I am a QA engineer passionate about ensuring high-quality software through **automation, API testing, and manual testing**.  
-I enjoy building test frameworks, writing clear test cases, and collaborating with teams to improve product quality.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussamaomari) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/oussama-qa) 
 
 ---
 
-## 🧰 Skills & Tools
+## 👨‍💻 About Me
+I am a dedicated **QA Automation Engineer** with hands-on experience in **designing, developing, and executing automated test solutions** for web and API applications. I specialize in **ensuring software quality through reliable and maintainable automation frameworks**.  
 
-**Automation:**  
-![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white) 
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)  
+- 🛠️ **Core Expertise:** Test Automation (Playwright, Cypress), API Testing (Postman, Newman), Continuous Integration & Deployment (Jenkins, Git), Test Management (JIRA, TestNG)  
+- 💻 **Programming & Scripting:** JavaScript, Python  
+- 📊 **Quality Focus:** Functional, regression, and performance testing with a strong attention to detail and best practices  
 
-**API Testing:**  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![JMeter](https://img.shields.io/badge/JMeter-6A4C93?style=for-the-badge&logo=apachejmeter&logoColor=white)  
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-
-**CI/CD & DevOps:**  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+I take pride in delivering **robust, scalable, and efficient test automation solutions** that accelerate release cycles while maintaining high software quality standards.
+ 
 
 ---
 
-## 📚 What I Can Do
+## 🧰 Tools & Technologies
 
-- **Automation Testing:** Build and maintain test frameworks using Playwright, Cypress, or other tools  
-- **API Testing:** Create and execute Postman collections, generate reports, and validate API endpoints  
-- **Manual Testing:** Write detailed test cases, execute tests, log bugs, and follow QA best practices  
-- **CI/CD & DevOps:** Integrate tests into Jenkins pipelines, Dockerize environments, and ensure smooth test automation  
-
----
-
-## 📫 Get In Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussamaomari)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussama.elomariii@gmail.com)  
-
----
-
-## ⚡ GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<div>
+  <img align="left" alt="Playwright" width="40px" src="https://playwright.dev/img/playwright-logo.svg" />
+  <img align="left" alt="Cypress" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" />
+  <img align="left" alt="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+  <img align="left" alt="Jenkins" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+  <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
+<br><br><br>
 
 ---
 
-## 🎯 Fun Fact
-When I'm not testing software, I enjoy learning new automation tools, exploring APIs, and solving logic puzzles.
+
+## 📂 Projects
+> Projects I'm working on or plan to showcase soon
+
+<div align="center">
+
+<!-- Project 1 -->
+<a href="#" target="_blank">
+  <img src="https://via.placeholder.com/250x150.png?text=Test+Automation+Framework" alt="Test Automation Framework" width="250" style="margin:10px; border-radius:8px;">
+  <p>💻 Test Automation Framework</p>
+</a>
+<p style="margin-top:-10px; color:gray;">Playwright + TestNG automation framework (🚧 In Progress)</p>
+
+<!-- Project 2 -->
+<a href="#" target="_blank">
+  <img src="https://via.placeholder.com/250x150.png?text=API+Testing+Suite" alt="API Testing Suite" width="250" style="margin:10px; border-radius:8px;">
+  <p>🔗 API Testing Suite</p>
+</a>
+<p style="margin-top:-10px; color:gray;">Postman & Newman automation for API endpoints (🚧 In Progress)</p>
+
+<!-- Project 3 -->
+<a href="#" target="_blank">
+  <img src="https://via.placeholder.com/250x150.png?text=Performance+Testing" alt="Performance Testing" width="250" style="margin:10px; border-radius:8px;">
+  <p>⚡ Performance Testing</p>
+</a>
+<p style="margin-top:-10px; color:gray;">Load testing using JMeter (🚧 Planned)</p>
+
+</div>
+
+
+---
+
+
+## 📈 GitHub Stats
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+
+---
+
+## ✉️ Contact Me
+- 📧 Email: [your.email@example.com](mailto:oussama.elomariii@gmail.com)  
+- 🌐 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/oussamaomari)  
+
+---
+
+> "Quality is not an act, it is a habit." – Aristotle
