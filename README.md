@@ -74,8 +74,8 @@ I take pride in delivering **robust, scalable, and efficient test automation sol
 ---
 
 ## ✉️ Contact Me
-- 📧 Email: [your.email@example.com](mailto:oussama.elomariii@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/oussamaomari)  
+- 📧 Email: [oussama.elomariii@gmail.com](mailto:oussama.elomariii@gmail.com)  
+- 🌐 LinkedIn: [linkedin.com/in/oussamaomari](https://www.linkedin.com/in/oussamaomari)  
 
 ---
 
