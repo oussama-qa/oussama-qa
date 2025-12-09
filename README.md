@@ -45,14 +45,14 @@ I take pride in delivering **robust, scalable, and efficient test automation sol
   <img src="https://via.placeholder.com/250x150.png?text=Test+Automation+Framework" alt="Test Automation Framework" width="250" style="margin:10px; border-radius:8px;">
   <p>💻 Test Automation Framework</p>
 </a>
-<p style="margin-top:-10px; color:gray;">Playwright automation framework (🚧 In Progress)</p>
+<p style="margin-top:-10px; color:gray;">Playwright Automation framework (🚧 In Progress)</p>
 
 <!-- Project 2 -->
 <a href="#" target="_blank">
   <img src="https://via.placeholder.com/250x150.png?text=API+Testing+Suite" alt="API Testing Suite" width="250" style="margin:10px; border-radius:8px;">
   <p>🔗 API Testing Suite</p>
 </a>
-<p style="margin-top:-10px; color:gray;">Postman automation for API endpoints (🚧 In Progress)</p>
+<p style="margin-top:-10px; color:gray;">Postman Automation for API endpoints (🚧 In Progress)</p>
 
 <!-- Project 3 -->
 <a href="#" target="_blank">
