@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 I am a dedicated **QA Automation Engineer** with hands-on experience in **designing, developing, and executing automated test solutions** for web and API applications. I specialize in **ensuring software quality through reliable and maintainable automation frameworks**.  
 
-- 🛠️ **Core Expertise:** Test Automation (Playwright, Cypress), API Testing (Postman, Newman), Continuous Integration & Deployment (Jenkins, Git), Test Management (JIRA, TestNG)  
+- 🛠️ **Core Expertise:** Test Automation (Playwright), API Testing (Postman), Continuous Integration & Deployment (Github Actions), Test Management (JIRA)  
 - 💻 **Programming & Scripting:** JavaScript, Python  
 - 📊 **Quality Focus:** Functional, regression, and performance testing with a strong attention to detail and best practices  
 
